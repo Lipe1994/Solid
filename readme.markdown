@@ -1,5 +1,5 @@
 ### Solid
-##### Solid é são o conjunto de 5 princípios que todo programador que trabalha com OO deveria saber.
+##### Solid são o conjunto de 5 princípios que todo programador que trabalha com OO deveria saber.
 
 Este resumo é uma maneira que eu tenho de estudar conceitos e ao mesmo tempo compartilhar meus novos conhecimentos no GitHub.
 
