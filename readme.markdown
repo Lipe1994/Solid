@@ -19,4 +19,8 @@ OCP => Princípio aberto fechado, alega "Objetos ou entidades devem estar aberto
 
 LSP => Princípio da substituição de Liskov, Uma classe derivada deve ser substituível por sua classe base, na minha visão este princípio sugere que uma classe A que herde a classe B, seja substituível pela classe B porém sem causar modificações nos dados mesmo que a classe B tenha menos dados que a A(mais mantenha a integridade do que tiver de dados).
 
+ISP => Princípio da segregação de interface, uma classe não deve ser obrigava a implementar interfaces ou metodos que não irá utilizar.
+
+DIP => Princípio da inversão de dependência e diz "Dependência de abstrações e não de implementações".
+
 ![Example](https://github.com/Lipe1994/Solid/blob/master/example.jpeg)
